@@ -1,2 +1,5 @@
 # chrome-extension-vue3-sample
-Vue3で作成したChrome拡張機能のサンプル
+
+## 概要
+
+- Vue3で作成したChrome拡張機能のサンプルです。
