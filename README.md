@@ -26,6 +26,13 @@ yarn
 yarn build
 ```
 
+## 拡張機能のインストール
+
+1. Chromeを起動して「chrome://extensions/」に移動
+1. 「デベロッパーモード」をON
+1. 「パッケージ化されていない拡張機能を読み込む」をクリック
+1. ビルド時に生成された「dist」ディレクトリを選択
+
 ## 実行結果
 
 ![拡張機能](https://user-images.githubusercontent.com/2668146/175852012-d5a4dfd3-95c6-4f4e-848f-0da9ff176acd.png)
