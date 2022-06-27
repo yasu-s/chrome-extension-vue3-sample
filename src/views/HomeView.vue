@@ -3,7 +3,6 @@ import { ref } from 'vue'
 
 const color = ref('#000000')
 
-/*global chrome */
 async function changeColor(color: string) {
   console.log('color: ' + color)
   const [tab] = await chrome.tabs.query({ active: true, currentWindow: true })

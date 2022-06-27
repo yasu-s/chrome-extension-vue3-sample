@@ -17,7 +17,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <style>
 #app {
   min-width: 300px;
-  min-height: 400px;
+  min-height: 300px;
   background: lemonchiffon;
 }
 

@@ -11,6 +11,7 @@ module.exports = {
     'prettier',
   ],
   rules: {
+    'no-undef': 'off',
     'prettier/prettier': [
       'error',
       {
